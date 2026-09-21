@@ -1,0 +1,9 @@
+{
+  "headlineMetric": "40% improvement in match accuracy over a keyword-only baseline",
+  "role": "Sole developer",
+  "resumeEligible": true,
+  "stack": ["Python", "NLTK", "pypdf", "FastAPI", "Docker", "pytest", "Ruff", "GitHub Actions"],
+  "oneLiner": "An explainable NLP engine ranking resumes against a job description by keyword overlap and cosine similarity.",
+  "startDate": "2024-09",
+  "endDate": "2024-12"
+}
