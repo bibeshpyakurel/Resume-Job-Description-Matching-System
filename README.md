@@ -26,9 +26,9 @@ A lightweight, explainable candidate-screening engine that converts resumes and 
 
 ## Demo
 
-![Demo GIF Placeholder](./docs/demo.gif)
-
-> Replace `docs/demo.gif` with a short terminal recording of `single` and `batch --json` flows.
+The CLI examples below demonstrate single-resume scoring and batch ranking.
+A terminal recording is planned for `docs/demo.gif`; the image will be embedded
+here once it is available.
 
 ## Installation
 
